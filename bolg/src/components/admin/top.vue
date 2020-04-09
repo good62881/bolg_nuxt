@@ -49,7 +49,7 @@ export default {
 	dt,dd{ float:right; padding-right:40px;}
 	dt{
 		width:200px; line-height:1.5;
-		img{ width:40px; height:40px; border-radius:50%; float:left; display:inline; margin-right:15px;}
+		img{ width:40px; height:40px; border-radius:50%; float:left; margin-right:15px;}
 		small{ color:#c3eafc;}
 	}
 	dd a{ font-size:24px; line-height:40px; color:#fff; text-decoration:none; }
