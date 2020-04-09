@@ -1,6 +1,10 @@
 module.exports = {
+  srcDir: 'src/',
   css: ['@/assets/css/common.less','@/assets/font/iconfont.css'],
   plugins: ['@/plugins/element-ui', '@/plugins/axios'],
+  modules: ['@nuxtjs/axios', '@nuxtjs/proxy'],
+  axios: { proxy: true },
+  proxy: ['http://goldenlee.cn/Api','http://goldenlee.cn/adminApi','http://goldenlee.cn/upload'],
   head: {
     title: '狗蛋的博客',
     meta: [
