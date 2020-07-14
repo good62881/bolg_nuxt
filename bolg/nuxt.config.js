@@ -6,7 +6,7 @@ module.exports = {
   axios: { proxy: true },
   proxy: ['http://goldenlee.cn/Api','http://goldenlee.cn/adminApi','http://goldenlee.cn/upload'],
   head: {
-    title: '狗蛋的博客',
+    title: '工作的点点滴滴',
     meta: [
       { charset: 'utf-8' },
       { 'http-equiv': 'X-UA-Compatible', content: 'IE=edge' },
