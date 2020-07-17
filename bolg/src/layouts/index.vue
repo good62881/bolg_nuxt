@@ -6,7 +6,7 @@
 		<c-right></c-right>
 		<nuxt/>
 	</div>
-	<footer><a href="http://www.miitbeian.gov.cn/">湘ICP备18010293号</a></footer>
+	<footer><a href="http://www.miitbeian.gov.cn/">沪ICP备20022016号</a></footer>
 </div>
 
 </template>

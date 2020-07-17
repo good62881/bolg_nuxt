@@ -1,7 +1,7 @@
 
 <template>
 <div class="top fix">
-	<h1>工作的点点滴滴</h1>
+	<h1>工作的点滴</h1>
 	<div class="nav">
 		<ul class="fix">
 			<li><nuxt-link to="/">文章</nuxt-link></li>
